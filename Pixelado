@@ -1,0 +1,1119 @@
+size (500, 500);
+background (252, 226, 6);
+
+//Línea 1
+fill (255, 255, 255);
+noStroke();
+rect(0, 0, 250, 25);
+
+fill (246, 246, 246);
+noStroke();
+rect(250, 0, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(275, 0, 250, 25);
+
+//Línea 2
+fill (255, 255, 255);
+noStroke();
+rect(0, 25, 175, 25);
+
+fill (1253, 252, 252);
+noStroke();
+rect(175, 25, 25, 25);
+
+fill (157,155,150);
+noStroke();
+rect(200, 25, 25, 25);
+
+fill (102, 100, 96);
+noStroke();
+rect(225, 25, 25, 25);
+
+fill (58, 55, 51);
+noStroke();
+rect(250, 25, 25, 25);
+
+fill (114, 111, 108);
+noStroke();
+rect(275, 25, 25, 25);
+
+fill (199, 198, 196);
+noStroke();
+rect(300, 25, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(325, 25, 175, 25);
+
+//Línea 3
+fill (255, 255, 255);
+noStroke();
+rect(0, 50, 175, 25);
+
+fill (150, 147, 143);
+noStroke();
+rect(175, 50, 25, 25);
+
+fill (43, 39, 36);
+noStroke();
+rect(200, 50, 25, 25);
+
+fill (40, 36, 33);
+noStroke();
+rect(225, 50, 25, 25);
+
+fill (36, 32, 29);
+noStroke();
+rect(250, 50, 25, 25);
+
+fill (33, 29, 26);
+noStroke();
+rect(275, 50, 25, 25);
+
+fill (29, 25, 21);
+noStroke();
+rect(300, 50, 25, 25);
+
+fill (127, 125, 122);
+noStroke();
+rect(325, 50, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(350, 50, 150, 25);
+
+//Línea 4
+fill (255, 255, 255);
+noStroke();
+rect(0, 75, 150, 25);
+
+fill (221, 220, 218);
+noStroke();
+rect(150, 75, 25, 25);
+
+fill (69, 57, 49);
+noStroke();
+rect(175, 75, 25, 25);
+
+fill (87, 67, 58);
+noStroke();
+rect(200, 75, 25, 25);
+
+fill (85, 63, 53);
+noStroke();
+rect(225, 75, 25, 25);
+
+fill (91, 62, 50);
+noStroke();
+rect(250, 75, 25, 25);
+
+fill (76, 50, 38);
+noStroke();
+rect(275, 75, 25, 25);
+
+fill (46, 31, 25);
+noStroke();
+rect(300, 75, 25, 25);
+
+fill (76, 50, 38);
+noStroke();
+rect(300, 75, 25, 25);
+
+fill (22, 17, 14);
+noStroke();
+rect(325, 75, 25, 25);
+
+fill (193, 192, 190);
+noStroke();
+rect(350, 75, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 75, 125, 25);
+
+//Línea 5
+fill (255, 255, 255);
+noStroke();
+rect(0, 100, 150, 25);
+
+fill (159, 154, 150);
+noStroke();
+rect(150, 100, 25, 25);
+
+fill (218, 169, 137);
+noStroke();
+rect(175, 100, 25, 25);
+
+fill (253, 212, 185);
+noStroke();
+rect(200, 100, 25, 25);
+
+fill (253, 194, 164);
+noStroke();
+rect(225, 100, 25, 25);
+
+fill (247, 173, 140);
+noStroke();
+rect(250, 100, 25, 25);
+
+fill (217, 142, 108);
+noStroke();
+rect(275, 100, 25, 25);
+
+fill (167, 102, 74);
+noStroke();
+rect(300, 100, 25, 25);
+
+fill (71, 46, 34);
+noStroke();
+rect(325, 100, 25, 25);
+
+fill (106, 104, 100);
+noStroke();
+rect(350, 100, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 100, 125, 25);
+
+//Línea 6
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 125, 150, 25);
+
+fill (169, 156, 147);
+noStroke();
+rect(150, 125, 25, 25);
+
+fill (254, 209, 171);
+noStroke();
+rect(175, 125, 25, 25);
+
+fill (253, 213, 185);
+noStroke();
+rect(200, 125, 25, 25);
+
+fill (254, 197, 167);
+noStroke();
+rect(225, 125, 25, 25);
+
+fill (251, 181, 149);
+noStroke();
+rect(250, 125, 25, 25);
+
+fill (222, 147, 113);
+noStroke();
+rect(275, 125, 25, 25);
+
+fill (188, 119, 86);
+noStroke();
+rect(300, 125, 25, 25);
+
+fill (118, 77, 56);
+noStroke();
+rect(325, 125, 25, 25);
+
+fill (106, 104, 100);
+noStroke();
+rect(350, 125, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 125, 125, 25);
+
+//Línea 7
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 150, 150, 25);
+
+fill (197, 185, 175);
+noStroke();
+rect(150, 150, 25, 25);
+
+fill (244, 201, 169);
+noStroke();
+rect(175, 150, 25, 25);
+
+fill (244, 199, 174);
+noStroke();
+rect(175, 150, 25, 25);
+
+fill (2244, 199, 174);
+noStroke();
+rect(200, 150, 25, 25);
+
+fill (250, 185, 158);
+noStroke();
+rect(225, 150, 25, 25);
+
+fill (245, 180, 154);
+noStroke();
+rect(250, 150, 25, 25);
+
+fill (191, 130, 106);
+noStroke();
+rect(275, 150, 25, 25);
+
+fill (167, 110, 83);
+noStroke();
+rect(300, 150, 25, 25);
+
+fill (136, 88, 64);
+noStroke();
+rect(325, 150, 25, 25);
+
+fill (85, 82, 78);
+noStroke();
+rect(350, 150, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 150, 125, 25);
+
+//Línea 8
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 175, 150, 25);
+
+fill (273, 222, 211);
+noStroke();
+rect(150, 175, 25, 25);
+
+fill (197, 148, 125);
+noStroke();
+rect(175, 175, 25, 25);
+//
+fill (116, 80, 66);
+noStroke();
+rect(200, 175, 25, 25);
+
+fill (193, 129, 105);
+noStroke();
+rect(225, 175, 25, 25);
+
+fill (157, 101, 81);
+noStroke();
+rect(250, 175, 25, 25);
+
+fill (106, 72, 59);
+noStroke();
+rect(275, 175, 25, 25);
+
+fill (117, 77, 61);
+noStroke();
+rect(300, 175, 25, 25);
+
+fill (147, 97, 72);
+noStroke();
+rect(325, 175, 25, 25);
+
+fill (113, 95, 89);
+noStroke();
+rect(350, 175, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 175, 125, 25);
+
+//Línea 9
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 200, 150, 25);
+
+fill (254, 239, 226);
+noStroke();
+rect(150, 200, 25, 25);
+
+fill (245, 205, 173);
+noStroke();
+rect(175, 200, 25, 25);
+
+fill (192, 137, 114);
+noStroke();
+rect(200, 200, 25, 25);
+
+fill (238, 177, 144);
+noStroke();
+rect(225, 200, 25, 25);
+
+fill (172, 106, 79);
+noStroke();
+rect(250, 200, 25, 25);
+
+fill (164, 112, 92);
+noStroke();
+rect(275, 200, 25, 25);
+
+fill (157, 106, 82);
+noStroke();
+rect(300, 200, 25, 25);
+
+fill (177, 120, 88);
+noStroke();
+rect(325, 200, 25, 25);
+
+fill (169, 133, 119);
+noStroke();
+rect(350, 200, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 200, 125, 25);
+
+//Línea 10
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 225, 150, 25);
+
+fill (254, 239, 226);
+noStroke();
+rect(150, 225, 25, 25);
+
+fill (254, 214, 188);
+noStroke();
+rect(175, 225, 25, 25);
+
+fill (251, 189, 159);
+noStroke();
+rect(200, 225, 25, 25);
+
+fill (246, 185, 156);
+noStroke();
+rect(225, 225, 25, 25);
+
+fill (181, 110, 83);
+noStroke();
+rect(250, 225, 25, 25);
+
+fill (238, 166, 135);
+noStroke();
+rect(275, 225, 25, 25);
+
+fill (225, 155, 124);
+noStroke();
+rect(300, 225, 25, 25);
+
+fill (174, 117, 89);
+noStroke();
+rect(325, 225, 25, 25);
+
+
+fill (202, 173, 160);
+noStroke();
+rect(350, 225, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 225, 125, 25);
+
+//Línea 11
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 250, 150, 25);
+
+fill (254, 241, 232);
+noStroke();
+rect(150, 250, 25, 25);
+
+fill (253, 202, 170);
+noStroke();
+rect(175, 250, 25, 25);
+
+fill (246, 181, 152);
+noStroke();
+rect(200, 250, 25, 25);
+
+fill (210, 147, 125);
+noStroke();
+rect(225, 250, 25, 25);
+
+fill (155, 96, 77);
+noStroke();
+rect(250, 250, 25, 25);
+
+fill (212, 143, 114);
+noStroke();
+rect(275, 250, 25, 25);
+
+fill (189, 129, 101);
+noStroke();
+rect(300, 250, 25, 25);
+
+fill (154, 105, 80);
+noStroke();
+rect(325, 250, 25, 25);
+
+fill (239, 234, 230);
+noStroke();
+rect(350, 250, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 250, 125, 25);
+
+//Línea 12
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 275, 150, 25);
+
+fill (254, 252, 250);
+noStroke();
+rect(150, 275, 25, 25);
+
+fill (252, 204, 169);
+noStroke();
+rect(175, 275, 25, 25);
+
+fill (218, 158, 132);
+noStroke();
+rect(200, 275, 25, 25);
+
+fill (200, 119, 112);
+noStroke();
+rect(225, 275, 25, 25);
+
+fill (147, 81, 70);
+noStroke();
+rect(250, 275, 25, 25);
+
+fill (148, 100, 77);
+noStroke();
+rect(275, 275, 25, 25);
+
+fill (154, 105, 80);
+noStroke();
+rect(300, 275, 25, 25);
+
+fill (148, 111, 92);
+noStroke();
+rect(325, 275, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(350, 275, 150, 25);
+
+//Línea 13
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 300, 100, 25);
+
+
+fill (254, 254, 254);
+noStroke();
+rect(100, 300, 25, 25);
+
+
+fill (254, 254, 254);
+noStroke();
+rect(125, 300, 25, 25);
+
+fill (248, 248, 249);
+noStroke();
+rect(150, 300, 25, 25);
+
+fill (197, 172, 157);
+noStroke();
+rect(175, 300, 25, 25);
+
+fill (247, 190, 151);
+noStroke();
+rect(200, 300, 25, 25);
+
+fill (209, 141, 115);
+noStroke();
+rect(225, 300, 25, 25);
+
+fill (171, 106, 82);
+noStroke();
+rect(250, 300, 25, 25);
+
+fill (149, 99, 72);
+noStroke();
+rect(275, 300, 25, 25);
+
+fill (121, 83, 62);
+noStroke();
+rect(300, 300, 25, 25);
+
+fill (74, 59, 52);
+noStroke();
+rect(325, 300, 25, 25);
+
+fill (208, 208, 208);
+noStroke();
+rect(350, 300, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(375, 300, 150, 25);
+
+//Línea 14
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 325, 75, 25);
+
+fill (227, 229, 236);
+noStroke();
+rect(75, 325, 25, 25);
+
+fill (173, 180, 202);
+noStroke();
+rect(100, 325, 25, 25);
+
+fill (137, 139, 154);
+noStroke();
+rect(125, 325, 25, 25);
+
+fill (108, 109, 124);
+noStroke();
+rect(150, 325, 25, 25);
+
+fill (65, 66, 77);
+noStroke();
+rect(175, 325, 25, 25);
+
+fill (160, 126, 108);
+noStroke();
+rect(200, 325, 25, 25);
+
+fill (192, 142, 117);
+noStroke();
+rect(225, 325, 25, 25);
+
+fill (141, 97, 76);
+noStroke();
+rect(250, 325, 25, 25);
+
+fill (95, 65, 48);
+noStroke();
+rect(275, 325, 25, 25);
+
+fill (92, 61, 42);
+noStroke();
+rect(300, 325, 25, 25);
+
+fill (55, 51, 52);
+noStroke();
+rect(325, 325, 25, 25);
+
+fill (75, 75, 81);
+noStroke();
+rect(350, 325, 25, 25);
+
+fill (122, 123, 127);
+noStroke();
+rect(375, 325, 25, 25);
+
+fill (217, 218, 219);
+noStroke();
+rect(400, 325, 25, 25);
+
+fill (248, 248, 249);
+noStroke();
+rect(425, 325, 25, 25);
+
+fill (255, 255, 255);
+noStroke();
+rect(450, 325, 50, 25);
+
+//Línea 15
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 350, 50, 25);
+
+fill (231, 233, 239);
+noStroke();
+rect(50, 350, 25, 25);
+
+fill (142, 150, 172);
+noStroke();
+rect(75, 350, 25, 25);
+
+fill (137, 145, 169);
+noStroke();
+rect(100, 350, 25, 25);
+
+fill (107, 109, 125);
+noStroke();
+rect(125, 350, 25, 25);
+
+fill (104, 107, 122);
+noStroke();
+rect(150, 350, 25, 25);
+
+fill (77, 80, 95);
+noStroke();
+rect(175, 350, 25, 25);
+
+fill (99, 85, 84);
+noStroke();
+rect(200, 350, 25, 25);
+
+fill (193, 142, 108);
+noStroke();
+rect(225, 350, 25, 25);
+
+fill (149, 103, 75);
+noStroke();
+rect(250, 350, 25, 25);
+
+fill (135, 91, 65);
+noStroke();
+rect(275, 350, 25, 25);
+
+fill (96, 75, 65);
+noStroke();
+rect(300, 350, 25, 25);
+
+fill (48, 50, 57);
+noStroke();
+rect(325, 350, 25, 25);
+
+fill (60, 61, 69);
+noStroke();
+rect(350, 350, 25, 25);
+
+fill (62, 65, 76);
+noStroke();
+rect(375, 350, 25, 25);
+
+fill (107, 112, 128);
+noStroke();
+rect(400, 350, 25, 25);
+
+fill (118, 122, 138);
+noStroke();
+rect(425, 350, 25, 25);
+
+fill (173, 175, 182);
+noStroke();
+rect(450, 350, 25, 25);
+
+fill (242, 243, 243);
+noStroke();
+rect(475, 350, 25, 25);
+
+//Línea 16
+
+fill (255, 255, 255);
+noStroke();
+rect(0, 375, 25, 25);
+
+fill (214, 219, 233);
+noStroke();
+rect(25, 375, 25, 25);
+
+fill (156, 164, 188);
+noStroke();
+rect(50, 375, 25, 25);
+
+fill (147, 154, 178);
+noStroke();
+rect(75, 375, 25, 25);
+
+fill (113, 119, 137);
+noStroke();
+rect(100, 375, 25, 25);
+
+fill (113, 117, 135);
+noStroke();
+rect(125, 375, 25, 25);
+
+fill (96, 99, 114);
+noStroke();
+rect(150, 375, 25, 25);
+
+fill (60, 64, 76);
+noStroke();
+rect(175, 375, 25, 25);
+
+fill (52, 50, 55);
+noStroke();
+rect(200, 375, 25, 25);
+
+fill (130, 96, 80);
+noStroke();
+rect(225, 375, 25, 25);
+
+fill (218, 162, 125);
+noStroke();
+rect(250, 375, 25, 25);
+
+fill (132, 107, 95);
+noStroke();
+rect(275, 375, 25, 25);
+
+fill (36, 37, 44);
+noStroke();
+rect(300, 375, 25, 25);
+
+fill (49, 51, 60);
+noStroke();
+rect(325, 375, 25, 25);
+
+fill (60, 62, 71);
+noStroke();
+rect(350, 375, 25, 25);
+
+fill (77, 81, 96);
+noStroke();
+rect(375, 375, 25, 25);
+
+fill (77, 81, 96);
+noStroke();
+rect(400, 375, 25, 25);
+
+fill (79, 84, 100);
+noStroke();
+rect(425, 375, 25, 25);
+
+fill (69, 73, 85);
+noStroke();
+rect(450, 375, 25, 25);
+
+fill (108, 112, 121);
+noStroke();
+rect(475, 375, 25, 25);
+
+//Línea 17
+
+fill (234, 236, 245);
+noStroke();
+rect(0, 400, 25, 25);
+
+fill (170, 179, 205);
+noStroke();
+rect(25, 400, 25, 25);
+
+fill (142, 149, 172);
+noStroke();
+rect(50, 400, 25, 25);
+
+fill (107, 114, 132);
+noStroke();
+rect(75, 400, 25, 25);
+
+fill (105, 111, 129);
+noStroke();
+rect(100, 400, 25, 25);
+
+fill (108, 114, 133);
+noStroke();
+rect(125, 400, 25, 25);
+
+fill (97, 100, 115);
+noStroke();
+rect(150, 400, 25, 25);
+
+fill (63, 66, 75);
+noStroke();
+rect(175, 400, 25, 25);
+
+fill (77, 82, 97);
+noStroke();
+rect(200, 400, 25, 25);
+
+fill (148, 151, 166);
+noStroke();
+rect(225, 400, 25, 25);
+
+fill (112, 85, 77);
+noStroke();
+rect(250, 400, 25, 25);
+
+fill (40, 40, 46);
+noStroke();
+rect(275, 400, 25, 25);
+
+fill (42, 45, 53);
+noStroke();
+rect(300, 400, 25, 25);
+
+fill (90, 95, 110);
+noStroke();
+rect(325, 400, 25, 25);
+
+fill (93, 97, 111);
+noStroke();
+rect(350, 400, 25, 25);
+
+fill (116, 122, 143);
+noStroke();
+rect(375, 400, 25, 25);
+
+fill (89, 93, 110);
+noStroke();
+rect(400, 400, 25, 25);
+
+fill (96, 102, 119);
+noStroke();
+rect(425, 400, 25, 25);
+
+fill (111, 117, 135);
+noStroke();
+rect(450, 400, 25, 25);
+
+fill (108, 114, 132);
+noStroke();
+rect(475, 400, 25, 25);
+
+//Línea 18
+
+fill (191, 200, 227);
+noStroke();
+rect(0, 425, 25, 25);
+
+fill (144, 153, 177);
+noStroke();
+rect(25, 425, 25, 25);
+
+fill (110, 117, 137);
+noStroke();
+rect(50, 425, 25, 25);
+
+fill (70, 74, 85);
+noStroke();
+rect(75, 425, 25, 25);
+
+fill (92, 98, 117);
+noStroke();
+rect(100, 425, 25, 25);
+
+fill (111, 117, 137);
+noStroke();
+rect(125, 425, 25, 25);
+
+fill (82, 86, 101);
+noStroke();
+rect(150, 425, 25, 25);
+
+fill (66, 70, 80);
+noStroke();
+rect(175, 425, 25, 25);
+
+fill (82, 88,105);
+noStroke();
+rect(200, 425, 25, 25);
+
+fill (104, 108,125);
+noStroke();
+rect(225, 425, 25, 25);
+
+fill (52,55,66);
+noStroke();
+rect(250, 425, 25, 25);
+
+fill (67,70,82);
+noStroke();
+rect(275, 425, 25, 25);
+
+fill (103,110,129);
+noStroke();
+rect(300, 425, 25, 25);
+
+fill (105,110,127);
+noStroke();
+rect(325, 425, 25, 25);
+
+fill (113,119,138);
+noStroke();
+rect(350, 425, 25, 25);
+
+fill (125,133,156);
+noStroke();
+rect(375, 425, 25, 25);
+
+fill (103,110,129);
+noStroke();
+rect(400, 425, 25, 25);
+
+fill (119,125,144);
+noStroke();
+rect(425, 425, 25, 25);
+
+fill (108,115,134);
+noStroke();
+rect(450, 425, 25, 25);
+
+fill (104,111,129);
+noStroke();
+rect(475, 425, 25, 25);
+
+fill (108,115,134);
+noStroke();
+rect(450, 425, 25, 25);
+
+//Línea 19
+
+fill (159, 168, 194);
+noStroke();
+rect(0, 450, 25, 25);
+
+fill (124, 131, 152);
+noStroke();
+rect(25, 450, 25, 25);
+
+fill (99, 104, 121);
+noStroke();
+rect(50, 450, 25, 25);
+
+fill (66, 71, 80);
+noStroke();
+rect(75, 450, 25, 25);
+
+fill (61, 66, 77);
+noStroke();
+rect(100, 450, 25, 25);
+
+fill (66, 71, 84);
+noStroke();
+rect(125, 450, 25, 25);
+
+fill (78, 83, 97);
+noStroke();
+rect(150, 450, 25, 25);
+
+fill (64, 67, 78);
+noStroke();
+rect(175, 450, 25, 25);
+
+fill (80, 86, 103);
+noStroke();
+rect(200, 450, 25, 25);
+
+fill (102, 101, 111);
+noStroke();
+rect(225, 450, 25, 25);
+
+fill (84, 86, 98);
+noStroke();
+rect(250, 450, 25, 25);
+
+fill (99, 105, 124);
+noStroke();
+rect(275, 450, 25, 25);
+fill (116, 124, 146);
+noStroke();
+rect(300, 450, 25, 25);
+
+fill (112, 118, 137);
+noStroke();
+rect(325, 450, 25, 25);
+
+fill (106, 113, 133);
+noStroke();
+rect(350, 450, 25, 25);
+
+fill (122, 129, 152);
+noStroke();
+rect(375, 450, 25, 25);
+
+fill (94, 102, 120);
+noStroke();
+rect(400, 450, 25, 25);
+
+fill (125, 132, 154);
+noStroke();
+rect(425, 450, 25, 25);
+
+fill (105, 112, 131);
+noStroke();
+rect(450, 450, 25, 25);
+
+fill (112, 119, 138);
+noStroke();
+rect(475, 450, 25, 25);
+
+//Línea 20
+
+fill (136, 144, 165);
+noStroke();
+rect(0, 475, 25, 25);
+
+fill (85, 91, 106);
+noStroke();
+rect(25, 475, 25, 25);
+
+fill (75, 79, 90);
+noStroke();
+rect(50, 475, 25, 25);
+
+fill (44, 47, 54);
+noStroke();
+rect(75, 475, 25, 25);
+
+fill (35, 37, 43);
+noStroke();
+rect(100, 475, 25, 25);
+
+fill (57, 61, 73);
+noStroke();
+rect(125, 475, 25, 25);
+
+fill (58, 61, 72);
+noStroke();
+rect(150, 475, 25, 25);
+
+fill (61, 65, 76);
+noStroke();
+rect(175, 475, 25, 25);
+
+fill (65, 70, 83);
+noStroke();
+rect(200, 475, 25, 25);
+
+fill (88, 96, 115);
+noStroke();
+rect(225, 475, 25, 25);
+
+fill (60, 64, 77);
+noStroke();
+rect(250, 475, 25, 25);
+
+fill (110, 117, 138);
+noStroke();
+rect(275, 475, 25, 25);
+
+fill (116, 123, 145);
+noStroke();
+rect(300, 475, 25, 25);
+
+fill (121, 129, 150);
+noStroke();
+rect(325, 475, 25, 25);
+
+fill (100, 107, 128);
+noStroke();
+rect(350, 475, 25, 25);
+
+fill (118, 126, 150);
+noStroke();
+rect(375, 475, 25, 25);
+
+fill (75, 82, 99);
+noStroke();
+rect(400, 475, 25, 25);
+
+fill (102, 111, 132);
+noStroke();
+rect(425, 475, 25, 25);
+
+fill (113, 121, 142);
+noStroke();
+rect(450, 475, 25, 25);
+
+fill (120, 127, 147);
+noStroke();
+rect(475, 475, 25, 25);
